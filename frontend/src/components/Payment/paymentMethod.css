@@ -1,0 +1,24 @@
+.payment-method{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+} 
+.payment-title h5{
+  font-size: 25px;
+}
+.payment-choose{
+  width: 500px;
+  margin: 0 auto;
+}
+.payment-choose h5{
+  font-size: 17px;
+}
+.payment{
+  display: flex;
+}
+.payment-label{
+  margin-left: 13px;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
